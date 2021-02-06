@@ -45,7 +45,7 @@ namespace Test
                 Console.WriteLine("The number in currency fomat is \n{0}", isNegative + ConvertToWords(number));
                  ss= ConvertToWords(number);
             }
-            //Console.ReadKey();
+            //51751Console.ReadKey();
 
             }
             catch (Exception ex) { Console.WriteLine(ex.Message); }
